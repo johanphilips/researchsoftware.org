@@ -44,7 +44,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | de-RSE  | Stephan Druskat | stephan.druskat@dlr.de |
 | de-RSE  | Frank Löffler | frank.loeffler@uni-jena.de |
 | BE-RSE  | Alexander Botzki | alexander.botzki@vib.be |
-| BE-RSE  | Johan Philips | johan.philips@kuleuven.be |
+| BE-RSE  | Johan Philips | ![johan_philips image](council/johan-philips-image.gif) |
 | NL-RSE  | Anna-Lena Lamprecht | a.l.lamprecht@uu.nl |
 | NL-RSE  | Ben van Werkhoven | b.vanwerkhoven@esciencecenter.nl |
 | RSE-AUNZ    | Rowland Mosbergen | rowlandm@practicaldiversity.org |
